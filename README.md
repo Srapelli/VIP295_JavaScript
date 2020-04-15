@@ -1,3 +1,3 @@
 # JavaScript Exercises
 
-These Exercises are from https://www.w3resource.com/javascript-exercises/ 
+The folder contains solutions to Exercises from https://www.w3resource.com/javascript-exercises/ 
